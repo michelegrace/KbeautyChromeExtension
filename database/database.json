@@ -1,0 +1,98 @@
+Sheet Mask.
+Eye Cream.
+
+{
+    "beauty steps" : [{
+        "step" : 1,
+        "product" : "oil cleanser",
+        "optional" : 1,
+        "AM_routine" : 1,
+        "PM_routine": 1,
+        "frequency" : "daily",
+        "purpose" : "breaks down oil-based products such as makeup and sunscreens",
+
+    }], 
+    [{
+        "step" : 2,
+        "product" : "foam/cream cleanser",
+        "optional" : 0,
+        "AM_routine" : 1,
+        "PM_routine": 1,
+        "frequency" : "daily",
+        "purpose" : "breaks down impurities such as sweat and dirt",
+    }],
+    [{
+        "step" : 3,
+        "product" : "exfoliator",
+        "optional" : 1,
+        "AM_routine" : 0,
+        "PM_routine": 1,
+        "frequency" : "1 or 2 times a week",
+        "purpose" : "cleans pores and helps remove dead skin cells",
+    }],
+    [{
+        "step" : 4,
+        "product" : "toner",
+        "optional" : 0,
+        "AM_routine" : 1,
+        "PM_routine": 1,
+        "frequency" : "daily",
+        "purpose" : "repairs skin barrier after cleansing, balances PH of skin"
+    }],
+    [{
+        "step" : 5, 
+        "product" : "essence",
+        "optional" : 1,
+        "AM_routine" : 0,
+        "PM_routine": 1,
+        "frequency" : "daily",
+        "purpose" : "lightweight and concentrated ingredients, provides extra boost for hydration, complexion-enhancement, and anti-aging"
+    }],
+    [{
+        "step" : 6, 
+        "product" : "ampoule/serum/booster",
+        "optional" : 1,
+        "AM_routine" : 1,
+        "PM_routine": 1,
+        "frequency" : "daily",
+        "purpose" : "Additional product that handles a specific skin problem, such as dry skin, texture, hyper-pigmentation, acne, etc."
+    }],
+[{
+    "step" : 7, 
+    "product" : "sheet mask",
+    "optional" : 1,
+    "AM_routine" : 0,
+    "PM_routine": 1,
+    "frequency" : "2/3 times a week",
+    "purpose" : "concentrated essence for a specific skin issue that is kepy on the face for an extended amount of time. "
+}],
+[{
+    "step" : 8, 
+    "product" : "eye cream",
+    "optional" : 1,
+    "AM_routine" : 0,
+    "PM_routine": 1,
+    "frequency" : "nightly",
+    "purpose" : "targetted hydration and protection for one of the thinnest areas of skin on the face."
+}],
+
+[{
+    "step" : 9, 
+    "product" : "emulsion/lotion/gel, cream, sleeping pack",
+    "optional" : 0,
+    "AM_routine" : 1,
+    "PM_routine": 1,
+    "frequency" : "daily",
+    "purpose" : "Thicker hydrating lotion"
+}],
+
+[{
+    "step" : 10, 
+    "product" : "sunscreen",
+    "optional" : 0,
+    "AM_routine" : 1,
+    "PM_routine": 0,
+    "frequency" : "daily",
+    "purpose" : "Protects skin from uv rays"
+}],
+}
